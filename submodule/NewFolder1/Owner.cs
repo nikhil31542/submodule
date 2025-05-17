@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace submodule
 {
-    public class Owner
+    public class Owner  
     {
         public string Name { get; set; }
     }
