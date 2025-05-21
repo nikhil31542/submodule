@@ -9,6 +9,5 @@ namespace submodule
     public class Owner  
     {
         public string Name { get; set; }
-        
     }
 }
